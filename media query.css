@@ -1,0 +1,1545 @@
+
+@media  (min-width:769px){
+ul .togals{
+  display: none;
+}
+ul .togals img{
+  display: none;
+}
+}
+
+
+@media screen and (max-width:1458px){
+   .btna{
+  
+    width: 85%;
+  }
+  .shadow{
+    width: 86%;
+  }
+    nav li a{
+    font-size: 20px;
+   } 
+    nav ul{
+  
+    margin-left: 400px;
+    width: 70%;
+   }
+}
+@media screen and (max-width:1440px){
+ 
+
+  .btna{
+  
+    width: 85%;
+  }
+  .shadow{
+    width: 86%;
+  }
+    nav li a{
+    font-size: 20px;
+   } 
+    nav ul{
+  
+      margin-left: 400px;
+    width: 70%;
+   }
+}
+@media screen and (max-width:1359px){
+   .btna{
+  
+    width: 90%;
+  }
+  .shadow{
+    width: 90%;
+  }
+  .btna p{
+    margin-left: 100px;
+  }
+    nav li a{
+    font-size: 20px;
+   } 
+   nav ul{
+  
+     margin-left: 400px;
+    width: 70%;
+   }
+  
+}
+@media screen and (max-width:1290px){
+   .btna{
+  
+    width: 92%;
+  }
+  .shadow{
+    width: 95%;
+  }
+   nav li a{
+    font-size: 20px;
+   } 
+   nav ul{
+  
+    margin-left: 400px;
+    width: 70%;
+   }
+}
+@media screen and (max-width:1264px){
+  .btna{
+  
+    width: 94%;
+  }
+  .shadow{
+    width: 95%;
+  }
+}
+@media screen and (max-width:1237px) {
+    nav li a{
+        font-size: 11px;
+        font-size: 12px;
+        font-weight: 750;
+        margin-left: 2px;
+    }
+  .righttop h1{
+   font-size: 30px;
+    color: white;
+    
+   
+  } 
+  .righttop h2{
+    font-size: 20px;
+  }
+  .inputs{
+    font-size: 13px;
+  } 
+  .text1 textarea{
+    width: 380px;
+  }
+  .guranteed p{
+    font-size: 14px;
+  }
+  .textpart p{
+    font-size: 16px;
+  }
+  .bord img{
+    height: 75%;
+    margin-top: 10px;
+  }
+  .btn1 button{
+    font-size: 12px;
+  }
+  .btn1 img{
+    margin-left: 5px;
+   
+  }
+  .law2 img{
+   height: 97px;
+  }
+  .case1 p{
+    font-size: 15px;
+  }
+  .btna h1{
+   font-size: 17px;
+  }
+  .btna p{
+    font-size: 13px;
+  }
+  .shadow{
+    margin-top: -4px;
+  }
+  .firstendmid h1{
+    margin-left: 10px;
+  }
+  .secondend{
+    margin-left: 20px;
+   
+  }
+  .secondend p{
+    font-size: 15px;
+  }
+  .thirda button{
+    font-size: 12px;
+  }
+  .thirda img{
+    margin-left: 5px;
+  }
+}
+/*second media query */
+@media(max-width:1176px){
+
+
+ .rightcontainer{
+    margin-left: 60px;
+ } 
+ nav ul{
+    margin-left: 350px;
+
+}
+.righttop h1{
+    font-size:27px ;
+    
+}
+.righttop h2{
+    font-size:18px ;
+}
+.Question{
+    font-size: 30px;
+}
+.textcontainer p{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.number{
+    font-size: 17px;
+}
+.inputs{
+    font-size: 12px;
+}
+.confidential{
+    width: 40%;
+}
+.text1 textarea{
+    width: 350px;
+}
+
+.guranteed p{
+    font-size: 11px;
+    margin-left: 7px;
+}
+.guranteed button{
+   width: 260px;
+    margin-left: 7;
+}
+.heading h1{
+   font-size: 22px;
+   margin-left: 10px;
+}
+.heading h2{
+    font-size: 16px;
+    margin-left: 10px;
+}
+.textpart p{
+    font-size: 13px;
+}
+.bord img{
+    height: 60%;
+
+}
+.law1 img{
+   margin-left: 2px;
+    
+}
+  .law2 img{
+   height: 88px;
+  }
+  .case1 img{
+   margin-left: 2px;
+    
+}
+   .btna h1{
+   font-size: 15px;
+  }
+  .btna p{
+    font-size: 10px;
+    
+  }
+  .red.red{
+    height: 10px;
+    margin-left: 3px;
+  }
+  .shadow{
+margin-top: -4.9px;
+  }
+  .firstendmid h1{
+    font-size: 18px;
+  }
+  .btn1 button{
+    font-size: 10px;
+  }
+  .btn1 img{
+    height: 10px;
+   
+  }
+  .secondend p{
+   font-size: 12px;
+   line-height: 20px;
+}
+}
+/**leptop media query**/
+@media (max-width:1024px){
+   .logo{
+    width: 50%;
+   }
+   .rightcontainer{
+    margin-left: 110px;
+   } 
+  nav ul{
+   margin-left: 400px;
+
+}
+nav li a{
+ font-size: px;
+}
+
+.navbar{
+    margin-right: 100px;
+}
+.law1 button{
+    margin-left: 80px;
+}
+
+.law2 img{
+    height: 85px;
+}
+.case1 p{
+    font-size: 14.5px;
+}
+.case1 button{
+    margin-left: 80px;
+}
+.case2 img{
+    height: 100px;
+    width: 130px;
+}
+.certificate p{
+    margin-left: 40px;
+    font-size: 13px;
+}
+.shadow{
+    margin-top: -5.5px;
+}
+.firstendmid{
+    margin-left: 10px;
+}
+.firstendmid h1{
+   margin-left: 0;
+    font-size: 18px;
+}
+.secondend{
+    margin-left: 30px;
+}
+.secondend p{
+    font-size: 12.5px;
+}
+.thirda h1{
+    font-size: 22px;
+}
+.thirda button{
+   width: 45%;
+   margin-left: 80px;
+}
+.ratingimg img{
+    height: 125px;
+    width: 165px;
+}
+.nationallarge img{
+    height: 125px;
+}
+.follow h1{
+    font-size: 19px;
+}
+.icons{
+    height: 30px;
+    width: 65%;
+}
+.guranteed button{
+    font-size: 15px;
+    width: 240px;
+}
+}
+/* media query1000 */
+@media (max-width:1010px){
+  .inputs {
+    font-size: 10px;
+  }
+  .confidential img{
+    transform: rotate(20deg);
+    margin-top: 30px;
+  }
+  .heading h1{
+    font-size: 20px;
+  }
+  .heading h2{
+    font-size: 15px;
+  }
+  .textpart p{
+    font-size: 12.5px;
+  }
+  .btn1 hr{
+    margin-left: 100px;
+  }
+  .btn1 button{
+    margin-left: 150px;
+  }
+  .law1 h1{
+    font-size: 22px;
+    margin-left: 10px;
+  }
+  .law1 hr{
+    margin-left: 10px;
+  }
+  .law1 button{
+    margin-left: 65px;
+  }
+  .law2 img{
+    margin-left: -5px;
+  }
+  .case1 h1{
+    font-size: 22px;
+    margin-left: 10px;
+  }
+  .case1 p{
+    font-size: 14px;
+  }
+}
+@media (max-width:990px){
+   nav li a{
+    font-size: 15px;
+   } 
+   nav ul{
+  
+    margin-left: 270px;
+    width: 70%;
+   } 
+   .firstend h1{
+    font-size: 16px;
+   }
+    .btna{
+  
+    width: 100%;
+  }
+  .btna p{
+    margin-left: 90px;
+  }
+  .shadow{
+    width: 100%;
+  }
+}
+/**tablet media query**/
+@media (max-width:768px){
+
+
+  header{
+    flex-direction: column;
+    text-align: center;
+  } 
+  .logo{
+    width: 100%;
+  } 
+  .rightcontainer hr{
+    width: 70vh;
+  }
+ 
+   nav li a{
+  display: none;
+   }
+   ul .togals{
+  display: block;
+  margin-left: 30vw;
+  margin-top: -2vh;
+}
+ul .togals img{
+  display: block;
+} 
+  .imegecontainer{
+    flex-direction: column;
+    align-items: center;
+  }
+  .left{
+    width: 95%;
+    margin-left: 0;
+  }
+  .right{
+    width: 95%;
+    margin-top: 40px;
+    margin-left: 0;
+  }
+  .righttop h1{
+    font-size: 42px;
+    
+  }
+  .righttop h2{
+    font-size: 33px;
+  }
+  .Question{
+    font-size: 50px;
+  }
+  .textcontainer{
+    margin-left: 15px;
+  }
+  .textcontainer p{
+    font-size: 25px;
+  }
+  .number{
+    font-size: 40px;
+  }
+  .inputs{
+    font-size: 23px;
+    width: 70%;
+  }
+  .phonein{
+    margin-left: -10px;
+  }
+  .confidential img{
+    transform: rotate(20deg);
+    margin-top: 30px;
+  }
+  .text1 textarea{
+    width: 600px;
+    margin-left: 40px;
+    height: 65px;
+    font-size: 20px;
+
+  }
+  .guranteed{
+    margin-bottom: 20px;
+  }
+  .guranteed p{
+    font-size: 25px;
+    margin-left: 30px;
+  }
+  .guranteed button{
+    height: 50px;
+    width: 350px;
+    font-size: 25px;
+  }
+  .textcontainer{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+   width: 100%;
+   margin-top: 40px;
+  }
+  .firstcontainer{
+  width: 50%;
+  margin-left: -30px;
+    margin-top: 0px;
+    height: 400px;
+
+  
+   
+  }
+  .heading{
+   
+    width: 80%;
+  }
+ 
+  .heading h1{
+    font-size: 25px;
+  }
+  .heading h2{
+    font-size: 20px;
+  }
+  .textpart p{
+    font-size: 16px;
+  }
+  .bord img{
+    height: 80%;
+  
+  }
+  .btn1 hr{
+    height: 2px;
+    margin-left: 100px;
+  }
+  .btn1 button{
+    height: 30px;
+    font-size: 15px;
+    width: 35%;
+    margin-left: 150px;
+  }
+  .btn1 img{
+    height: 11px;
+    margin-left: 7px;
+  }
+   .secondcontainer{
+   width: 50%;
+border-right: solid white;
+  
+  
+   
+    
+  }
+  .law1 button{
+    margin-bottom: 30px;
+  }
+  .law1 h1{
+    font-size: 25px;
+  }
+  .law1 p{
+    font-size: 17px;
+    margin-left: 30px;
+  }
+  .law1 hr{
+    height: 2px;
+  }
+  .law1 button{
+    height: 30px;
+    font-size: 15px;
+    width: 53%;
+  }
+  .law1 img{
+    height: 12px;
+  }
+  .law2 img{
+    height: 85px;
+  }
+  .case1 h1{
+    font-size: 25px;
+    margin-left: 20px;
+  }
+  .case1 p{
+    font-size: 14px;
+    margin-left: 20px;
+  }
+  .case1 hr{
+    height: 2px;
+    margin-left: 20px;
+  }
+  .case1 button{
+   height: 30px;
+    font-size: 13px;
+    margin-left: 70px;
+    width: 53%;
+  }
+  .case1 img{
+    height: 15px;
+  }
+  .case2 img{
+    height: 100px;
+    width: 120px;
+  }
+  .threecontainer{
+    width: 50%;
+    margin-left: -5%;
+    margin-top: 20px;
+  }
+  .certificate h1{
+    font-size: 25px;
+  }
+  
+.certificate p{
+  font-size: 16px;
+}
+  .certificate hr{
+    height: 2px;
+    width: 53%;
+    margin-left: 140px;
+  
+  }
+  .certificate button{
+    margin-bottom: 20px;
+    height: 30px;
+    width: 40%;
+    font-size: 18px;
+    margin-left: 45%;
+  }
+  .certificate img{
+    height: 15px;
+  }
+  .hr{
+   
+      margin-top: -10px;
+  }
+  .hr img{
+    height: 100%;
+  
+  }
+  .endcontainer{
+    align-items: center;
+    flex-direction: column;
+  }
+  .firstend{
+    width: 40%;
+  }
+  .firstend h1{
+    font-size: 25px;
+    margin-left: -5px;
+  }
+  .btna{
+    margin-left: 0;
+    height: 80px;
+  }
+  .btna img{
+  height: 100%;
+  }
+  .heading1{
+  margin-left: 10px;  
+  }
+  .btna p{
+    font-size: 17px;
+    margin-left: 150px;
+  }
+  .red.red{
+  height: 15px;
+  margin-top: 12px;
+  }
+  .shadow{
+    width: 100%;
+    margin-left: 0;
+  }
+  .firstendmid{
+    margin-top: 60px;
+    width: 100%;
+
+  }
+  
+.firstendmid h1{
+  font-size: 25px;
+}
+.firstendmid h2{
+  font-size: 20px;
+}
+.secondend{
+  width: 90%;
+  margin-top: 40px;
+  text-align: center;
+  margin-left: 0px;
+}
+.secondend h1{
+  font-size: 25px;
+}
+.secondend p{
+  font-size: 15px;
+
+}
+.thirdend{
+  width: 100%;
+
+  justify-content: center;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center
+  ;
+
+}
+.a{
+  width: 45%;
+
+}
+
+.thirda a h1{
+  font-size: 30px;
+}
+.thirda a h2{
+  font-size: 23px;
+}
+.thirda a button{
+  height: 30px;
+  font-size: 20px;
+}
+.thirda a img{
+  height: 15px;
+}
+.b{
+ width: 45%; 
+
+}
+.c{
+  width: 50%;
+  margin: auto;
+  margin-top:40px ;
+}
+.lastimeges{
+ gap: 20%;
+  display: flex;
+  width: 70%;
+  
+ 
+}
+
+.ratingimg{
+  height: 170px;
+
+  width: 50%;
+ 
+}
+  .ratingimg img{
+height:145px ;
+width: 195px;
+
+
+}
+.nationallarge{
+  height: auto;
+
+  width: 50%;
+  justify-content: center;
+
+}
+.nationallarge img{
+  height: 145px;
+  width: 160px;
+  margin-left: -10px;
+ 
+ 
+ 
+  margin-bottom: 20px;
+}
+.follow{
+margin-top: 50px;
+
+width: 50%;
+  
+}
+.follow h1{
+  font-size: 28px;
+}
+.icons{
+  margin-top: 30px;
+
+justify-content: center;
+  height: 46px;
+  margin-left: -60px;
+}
+}
+@media (max-width:713px){
+ul .togals{
+  display: block;
+    margin-left: 25vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:667px){
+ul .togals{
+  display: block;
+    margin-left: 20vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:625px){
+ul .togals{
+  display: block;
+    margin-left: 17vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:595px){
+ul .togals{
+  display: block;
+    margin-left: 14vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:583px){
+ul .togals{
+  display: block;
+    margin-left: 10vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:553px){
+ul .togals{
+  display: block;
+    margin-left: 5vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:523px){
+ul .togals{
+  display: block;
+    margin-left: 0vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:460px){
+ul .togals{
+  display: block;
+    margin-left: -20vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:460px){
+
+
+ul .togals{
+  display: block;
+    margin-left: -20vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:390px){
+
+
+ul .togals{
+  display: block;
+    margin-left: -40vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+@media (max-width:330px){
+
+
+ul .togals{
+  display: block;
+    margin-left: -60vw;
+}
+ul .togals img{
+  display: block;
+
+}
+}
+
+
+/**phone media query**/
+@media (max-width:450px){
+
+
+  header{
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .rightcontainer{
+   
+    width: 100%;
+    margin-left: 0;
+  } 
+  .rightcontainer h1{
+    font-size: 20px;
+  }
+  .rightcontainer  hr{
+ 
+    width: 55vh;
+  }
+  .rightcontainer h2{
+    font-size: 30px;
+  }
+  .rightcontainer p{
+    font-size: 17px;
+  }
+  .left{
+    height: 330px;
+  }
+  .righttop h1{
+    height: 30px;
+    font-size: 20px;
+  }
+  .righttop h2{
+    font-size: 20px;
+  }
+  .Question{
+    font-size: 25px;
+  }
+  .textcontainer p{
+    font-size: 14px;
+    margin-left: -18px;
+  }
+  .number{
+    font-size: 16px;
+  }
+  .inputs{
+    font-size: 15px;
+  }
+  .namein{
+    margin-left: px;
+  }
+  .emailin{
+    margin-left: px;
+  }
+  .phonein{
+    margin-left: -3.9px;
+  }
+  .inputs input{
+    padding: 3px;
+  }
+  .confidential img{
+    transform: rotate(25deg);
+  }
+  .text1 textarea{
+    width: 300px;
+    font-size: 13px;
+    height: 35px;
+  }
+  .guranteed p{
+    font-size: 13px;
+  }
+  .guranteed button{
+    width: 170px;
+  height: 30px;
+    font-size: 13px;
+  }
+  .guranteed button img{
+    height: 10px;
+    width: 9px;
+  }
+  .firstcontainer{
+    width: 100%;
+    margin-left: 0;
+  }
+  .heading{
+    margin-left:7px;
+  }
+  .heading h1{
+    font-size: 23px;
+  }
+  .heading h2{
+    font-size: 17px;
+  }
+  .textpart p{
+    font-size: 16px;
+   
+  }
+  .bord img{
+    width: 60%;
+  }
+  .btn1 hr{
+    width: 50%;
+    margin-left: 120px;
+  }
+  .btn1 button{
+       width: 130px;
+  height: 30px;
+    font-size: 13px;
+    margin-left: 170px;
+  }
+  .btn1 img{
+    height: 10px;
+    width: 9px;
+  }
+  .btn{
+    margin-bottom: 0;
+  }
+  .secondcontainer{
+    margin-top: -100px;
+    width: 100%;
+  }
+  .law1{
+    width: 100%;
+    margin-left: 0px;
+
+  }
+  .law1 h1{
+    font-size: 20px;
+    margin-left: 17px;
+  }
+  .law1 p{
+    margin-left: 17px;
+  }
+  .law1 hr{
+    width: 70%;
+    margin-left: 40px;
+  }
+  .law1 button{
+        width: 110px;
+  height: 30px;
+    font-size: 13px;
+    margin-left: 55px;
+  }
+  .law1 img{
+    height: 10px;
+    width: 8px;
+  }
+  .law2{
+    width: 100%;
+  }
+  .law2 img{
+    height: 80px;
+  }
+  .case1 h1{
+    font-size: 23px;
+    margin-left: 0px;
+  }
+  .case1 p{
+    margin-left: 0px;
+  }
+  .case1 hr{
+    margin-left: 0px;
+    width: 85%;
+  }
+  .case1 button{
+        width: 110px;
+  height: 30px;
+    font-size: 13px;
+    margin-left: 55px; 
+  }
+  .case1 img{
+    height: 10px;
+    width: 8px;
+  }
+  .case2 img{
+    height: 100px;
+    width: 130px;
+    margin-left: -10px;
+  }
+  .threecontainer{
+    width: 100%;
+    margin-left: -30px;
+  }
+  .avo img{
+    height: 90px;
+  }
+.avo{
+  margin-left: 0px;
+}
+.certificate h1{
+  font-size: 23px;
+  margin-left: 60px;
+}
+.certificate p{
+  font-size: 16px;
+  margin-left: 40px;
+}
+.certificate hr{
+  width: 55%;
+  margin-left: 125px;
+}
+ .certificate button{
+       width: 150px;
+  height: 30px;
+    font-size: 13px;
+    margin-left: 170px;
+  }
+  .hr{
+    width: 100%;
+  }
+  .hr img{
+    width: 100%;
+  }
+  .firstend{
+    width: 80%;
+  }
+  .shadow{
+    border: none;
+    width: 100%;
+  }
+  .shadow img{
+    border: none;
+    width: 100%;
+  }
+  .secondend{
+    width: 90%;
+    margin-bottom: 50px;
+  }
+  .thirdend{
+    width: 100%;
+    margin-top: 40px;
+  }
+  .a{
+    width: 100%;
+  
+    text-align: center;
+    justify-content: center;
+  }
+  .thirda hr{
+    width: 50%;
+    margin-left: 35%;
+  }
+  .thirda button{
+    width: 30%;
+
+  }
+  .b{
+    width: 100%;
+     
+    text-align: center;
+    justify-content: center;
+  }
+  .c{
+    width: 100%;
+    
+    text-align: center;
+    justify-content: center;
+  }
+  .lastimeges{
+   
+    width: 100%;
+    gap: 4%;
+    justify-content: center;
+  }
+  .ratingimg{
+    margin-left: 30px;
+  }
+  .ratingimg img{
+    height: 110px;
+    width: 130px;
+  }
+  
+  .nationallarge img{
+        height: 110px;
+ width: 120px;
+  }
+  .follow{
+    width: 100%;
+  }
+  .follow h1{
+    margin-left: 25%;
+  }
+  .hrshadow{
+       margin-left: 17%;
+  }
+  .icons{
+    margin-left: 1px;
+   
+  }
+  }
+@media (max-width:380px){
+
+  .righttop h1{
+  height: 30px;
+  font-size: 18px;
+  width: 37%;
+  }
+  .righttop h2{
+    font-size: 18px;
+  }
+  .textcontainer p{
+    font-size: 13px;
+    margin-left: -30px
+  }
+  .inputs{
+    font-size: 10px;
+    margin-left: 0;
+  }
+  .text1 textarea{
+    margin-left: 10px;
+  }
+  .guranteed p{
+    margin-left: 0;
+  }
+  .guranteed button{
+    width: 50%;
+    font-size: 12px;
+  }
+.heading h1{
+  margin-left: -10px;
+}
+.heading h2{
+  margin-left: -10px;
+}
+  .btn1 button{
+    margin-left: 150px;
+  }
+  .law1 p{
+    margin-left: 0px;
+  }
+  .law1 h1{
+margin-left: 0;
+  }
+  .law1 button{
+    width: 60%;
+    margin-left: 50px;
+    font-size: 13px;
+  }
+  .case1 h1{
+    margin-left: 0;
+  }
+  .case1 p{
+    margin-left: 0px;
+    font-size: 13px;
+  }
+  .certificate h1{
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .certificate p{
+    margin-left: 30px;
+  }
+  .certificate button{
+    width: 35%;
+  }
+  .secondend h1{
+    font-size: 23px;
+    
+  }
+  .thirdend{
+    margin-top: 90px;
+  }
+   .lastimeges{
+  
+    flex-direction: column;
+   
+   }
+   .ratingimg img{
+    margin-left: 70px;
+   }
+   .nationallarge img{
+    margin-left: 100px;
+   }
+ 
+}
+/* media query 320px */
+@media (max-width:320px){
+
+
+ 
+    .left{
+height: 170px;
+width: 95%;
+margin-bottom: 0;
+    }
+    .right{
+    
+      margin-top: 15px;
+    }
+    .righttop h1{
+      width: 40%;
+      font-size: 17px;
+    }
+    .righttop h2{
+      font-size: 15px;
+
+    
+  }
+  .Question{
+    font-size: 20px;
+  }
+  .textcontainer{
+    margin-left: 0;
+    margin-top: 0
+  }
+  .textcontainer p{
+    font-size: 10px;
+    margin-left: 0;
+  }
+  .number{
+    font-size: 13px;
+  }
+  .inputs input{
+    margin-top: 5px;
+  }
+  .text1 textarea{
+    margin-left: 10px;
+    width: 90%;
+    font-size: 10px;
+  }
+  .guranteed{
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+  .guranteed p{
+    margin-top: 0;
+    font-size: 10px;
+  }
+  .guranteed button{
+  font-size: 10px;
+    width: 50%;
+  }
+
+  .firstcontainer{
+    width: 100%;
+  height:auto;
+    border-bottom: 2px solid #838383;
+    border-right: 2px solid white;
+  }
+  .heading h1{
+    font-size: 19px;
+    margin-left: 10px;
+  }
+  .heading h2{
+    font-size: 15px;
+    margin-left: 10px;
+  }
+  .textpart p{
+    margin-left: -13px;
+    font-size: 11px;
+    margin-bottom: 0;
+ 
+  }
+  .bord img{
+    height: 80%;
+    margin-left: -5px;
+    
+  }
+  .btn1 hr{
+    margin-left: 50px;
+    margin-top: 0;
+  }
+  .btn1 button{
+    margin-left: 70px;
+    width: 40%;
+    margin-bottom: 0;
+  }
+.lawblog{
+ 
+  margin-top: 0;
+}
+.secondcontainer{
+
+  margin-top: 10px;
+}
+.law1 h1{
+  font-size: 15px;
+  margin-left: 10px;
+}
+.law1 p{
+  margin-left: 10px;
+  font-size: 11px;
+}
+.law1 hr{
+  margin-left: 10px;
+  width: 85%;
+}
+.law1 button{
+  margin-left: 35px;
+  font-size: 10px;
+  height: 25px;
+}
+.law2 img{
+  height: 70px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.case1 h1{
+  font-size: 15px;
+  margin-left: 10px;
+}
+.case1 p{
+
+  margin-left: 10px;
+}
+.case1 hr{
+  width: 75%;
+  margin-left: 10px;
+}
+.case1 button{
+  margin-left: 35px;
+  height: 25px;
+  width: 50%;
+  font-size: 10px;
+}
+.case2 img{
+  height: 80px;
+  width: 100px;
+
+}
+.certificate h1{
+  margin-left: 25px;
+}
+.certificate p{
+  margin-left: 25px;
+}
+.certificate hr{
+  margin-left: 80px;
+}
+.certificate button{
+  margin-left: 130px;
+  font-size: 11px;
+  height: 25px;
+}
+.certificate img{
+  height: 10px;
+  margin-left: 5px;
+}
+.firstend{
+
+  width: 90%;
+}
+.bigbtn{
+
+  width: 100%;
+}
+.btna{
+  height: 70px;
+}
+.heading1{
+ 
+  margin-left: 3px;
+}
+.btna h1{
+  font-size: 20px;
+  margin-left: 0
+}
+.para{
+
+  margin-top: -5px;
+}
+.btna p{
+  margin-left: 140px;
+  font-size: 14px;
+}
+.red.red{
+  height: 12px;
+}
+.firstendmid{
+  width: 100%;
+}
+.firstendmid h1{
+  font-size: 23px;
+  margin-left: -20px;
+}
+.firstendmid h2{
+  margin-left: -10px;
+}
+.secondend h1{
+  font-size: 20px;
+  margin-left: -10px;
+}
+.secondend p{
+  font-size: 15px;
+}
+.thirdend{
+  margin-top: 150px;
+
+}
+.a{
+  width: 100%;
+ 
+}
+.thirda h1{
+  margin-left: -40px;
+}
+.thirda h2{
+  margin-left: -40px;
+}
+.thirda hr{
+  margin-left: 40px;
+  width: 65%;
+}
+.thirda button{
+  margin-left: 40px;
+  width: 35vw;
+}
+.lastimeges{
+margin-left: -40px;
+}
+.nationallarge img{
+  width: 115px;
+  margin-left: 110px;
+}
+.follow h1{
+  margin-left: 30px;
+  font-size: 35px;
+}
+.hrshadow{
+  width: 95%;
+  margin-left: 5px;
+}
+
+
+
+
+}
+  
+
+
+
+
