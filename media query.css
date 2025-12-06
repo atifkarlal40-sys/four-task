@@ -2,6 +2,8 @@
 @media  (min-width:769px){
 ul .togals{
   display: none;
+  width: 20px;
+
 }
 ul .togals img{
   display: none;
